@@ -2,7 +2,8 @@
 
 **AI-Powered Freight Cost Prediction & Invoice Risk Detection**
 
-[![Live App](https://img.shields.io/badge/Live-Streamlit-FF4B4B)](https://mayuresh0711-vendor-invoice-intelligence-system-app-sszyjb.streamlit.app/)
+[![Live App](https://ai-powered-freight-cost-prediction-and-invoice-risk-detectio)
+[![Live App](https://ai-powered-freight-cost-prediction-and-invoice-risk-detection.streamlit.app/)]()
 [![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue)]()
 
 ---
@@ -40,7 +41,7 @@ Finance teams spend hours manually reviewing vendor invoices to detect:
 
 ## 🚀 Live Demo
 
-**Try it here:** [https://mayuresh0711-vendor-invoice-intelligence-system-app-sszyjb.streamlit.app/](https://mayuresh0711-vendor-invoice-intelligence-system-app-sszyjb.streamlit.app/)
+**Try it here:** [https://ai-powered-freight-cost-prediction-and-invoice-risk-detection.streamlit.app/](https://ai-powered-freight-cost-prediction-and-invoice-risk-detection.streamlit.app/)
 
 ### Screenshots
 
@@ -153,7 +154,7 @@ Finance teams spend hours manually reviewing vendor invoices to detect:
 
 ### 1. Clone Repository
 ```bash
-git clone https://github.com/mayuresh0711/vendor-invoice-intelligence-system.git
+git clone https://github.com/Kalpesh0389/AI-Powered-Freight-Cost-PredictionAnd-Invoice-Risk-Detection.git
 cd vendor-invoice-intelligence-system
 ```
 
@@ -203,9 +204,9 @@ Open: **http://localhost:8501**
 **Mayuresh Ahire**  
 Data Analyst | Machine Learning
 
-- 🔗 **LinkedIn:** [linkedin.com/in/mayuresh-ahire-ab079b2a3/](https://www.linkedin.com/in/mayuresh-ahire-ab079b2a3/)
-- 🐙 **GitHub:** [github.com/mayuresh0711](https://github.com/mayuresh0711)
-- 📧 **Email:** ahiremayuresh4@gmail.com
+- 🔗 **LinkedIn:** [https://www.linkedin.com/in/kalpesh-remje/](https://www.linkedin.com/in/kalpesh-remje/)
+- 🐙 **GitHub:** [https://github.com/Kalpesh0389](https://github.com/Kalpesh0389)
+- 📧 **Email:** remjekalpesh486@gmail.com
 
 ---
 
