@@ -2,9 +2,8 @@
 
 **AI-Powered Freight Cost Prediction & Invoice Risk Detection**
 
-[![Live App](https://ai-powered-freight-cost-prediction-and-invoice-risk-detectio)
-[![Live App](https://ai-powered-freight-cost-prediction-and-invoice-risk-detection.streamlit.app/)]()
-[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue)]()
+[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://ai-powered-freight-cost-prediction-and-invoice-risk-detection.streamlit.app/)
+[![Python 3.8+](https://img.shields.io/badge/Python-3.8+-blue?logo=python&logoColor=white)](https://www.python.org/)
 
 ---
 
