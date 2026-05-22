@@ -2,7 +2,7 @@
 
 **AI-Powered Freight Cost Prediction & Invoice Risk Detection**
 
-[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://ai-powered-freight-cost-prediction-and-invoice-risk-detection.streamlit.app/)
+[![Live App](https://img.shields.io/badge/Live%20App-Streamlit-FF4B4B?logo=streamlit&logoColor=white)](https://kalpesh-vendor-invoice-intelligent-system.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)](https://www.python.org/)
 [![NumPy](https://img.shields.io/badge/NumPy-4DABCF?logo=numpy&logoColor=white)](https://numpy.org/)
 [![Pandas](https://img.shields.io/badge/Pandas-E70488?logo=pandas&logoColor=white)](https://pandas.pydata.org/)
@@ -42,7 +42,7 @@ Finance teams spend hours manually reviewing vendor invoices to detect:
 
 ## 🚀 Live Demo
 
-**Try it here:** [https://ai-powered-freight-cost-prediction-and-invoice-risk-detection.streamlit.app/](https://ai-powered-freight-cost-prediction-and-invoice-risk-detection.streamlit.app/)
+**Try it here:** [https://kalpesh-vendor-invoice-intelligent-system.streamlit.app/](https://kalpesh-vendor-invoice-intelligent-system.streamlit.app/)
 
 ### Screenshots
 
